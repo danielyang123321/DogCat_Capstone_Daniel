@@ -1,0 +1,1 @@
+项目使用aws的deep learning ami作为基础环境，使用jupyter notebook作为编程环境，使用keras作为编程基础，使用tableau作为可视化工具，使用github来作为代码文件管理系统（https://github.com/danielyang123321/DogCat_Capstone_Daniel），项目中所列示的文件都存储在github中。利用aws的p3.2xlarge的环境，代码在特征提取环节大概可以在半个小时内运行完毕。
