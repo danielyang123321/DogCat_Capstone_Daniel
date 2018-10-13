@@ -1,0 +1,36 @@
+[I 11:35:21.100 NotebookApp] Using EnvironmentKernelSpecManager...
+[I 11:35:21.100 NotebookApp] Started periodic updates of the kernel list (every 3 minutes).
+[I 11:35:21.107 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 11:35:21.677 NotebookApp] Loading IPython parallel extension
+[I 11:35:21.715 NotebookApp] JupyterLab beta preview extension loaded from /home/ubuntu/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 11:35:21.715 NotebookApp] JupyterLab application directory is /home/ubuntu/anaconda3/share/jupyter/lab
+[I 11:35:22.383 NotebookApp] [nb_conda] enabled
+[I 11:35:22.385 NotebookApp] Serving notebooks from local directory: /home/ubuntu/working/DogCat_Capstone
+[I 11:35:22.385 NotebookApp] 0 active kernels
+[I 11:35:22.385 NotebookApp] The Jupyter Notebook is running at:
+[I 11:35:22.385 NotebookApp] http://ip-172-31-60-143:8888/?token=d1382196c32d80084664646d94631fdd5f536d2a20f30b10
+[I 11:35:22.385 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:35:22.386 NotebookApp] No web browser found: could not locate runnable browser.
+[C 11:35:22.386 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://ip-172-31-60-143:8888/?token=d1382196c32d80084664646d94631fdd5f536d2a20f30b10&token=d1382196c32d80084664646d94631fdd5f536d2a20f30b10
+[I 11:35:22.386 NotebookApp] Starting initial scan of virtual environments...
+[I 11:35:26.350 NotebookApp] Found new kernels in environments: conda_caffe2_p27, conda_mxnet_p36, conda_cntk_p27, conda_caffe_p27, conda_theano_p27, conda_pytorch_p27, conda_python3, conda_chainer_p27, conda_pytorch_p36, conda_tensorflow_p27, conda_mxnet_p27, conda_python2, conda_theano_p36, conda_tensorflow_p36, conda_cntk_p36, conda_caffe_p35, conda_chainer_p36, conda_anaconda3
+[I 11:35:48.025 NotebookApp] 302 GET /?token=d1382196c32d80084664646d94631fdd5f536d2a20f30b10&token=d1382196c32d80084664646d94631fdd5f536d2a20f30b10%20[I%2011:35:22.386%20NotebookApp]%20Starting%20initial%20scan%20of%20virtual%20environments... (47.88.17.133) 1.30ms
+[I 11:35:48.301 NotebookApp] 302 GET /tree?token=d1382196c32d80084664646d94631fdd5f536d2a20f30b10&token=d1382196c32d80084664646d94631fdd5f536d2a20f30b10%20[I%2011:35:22.386%20NotebookApp]%20Starting%20initial%20scan%20of%20virtual%20environments... (47.88.17.133) 0.92ms
+[W 11:38:51.539 NotebookApp] 401 POST /login?next=%2Ftree%3Ftoken%3Dd1382196c32d80084664646d94631fdd5f536d2a20f30b10%26token%3Dd1382196c32d80084664646d94631fdd5f536d2a20f30b10%2520%5BI%252011%3A35%3A22.386%2520NotebookApp%5D%2520Starting%2520initial%2520scan%2520of%2520virtual%2520environments... (47.88.17.133) 1.86ms referer=http://35.175.103.123:8888/login?next=%2Ftree%3Ftoken%3Dd1382196c32d80084664646d94631fdd5f536d2a20f30b10%26token%3Dd1382196c32d80084664646d94631fdd5f536d2a20f30b10%2520%5BI%252011%3A35%3A22.386%2520NotebookApp%5D%2520Starting%2520initial%2520scan%2520of%2520virtual%2520environments...
+[I 11:39:01.080 NotebookApp] 302 POST /login?next=%2Ftree%3Ftoken%3Dd1382196c32d80084664646d94631fdd5f536d2a20f30b10%26token%3Dd1382196c32d80084664646d94631fdd5f536d2a20f30b10%2520%5BI%252011%3A35%3A22.386%2520NotebookApp%5D%2520Starting%2520initial%2520scan%2520of%2520virtual%2520environments... (47.88.17.133) 1.29ms
+[I 11:40:00.176 NotebookApp] Kernel started: a312db3b-c59d-41ee-ab0e-bbe001e9fe64
+[I 11:40:01.391 NotebookApp] Adapting to protocol v5.1 for kernel a312db3b-c59d-41ee-ab0e-bbe001e9fe64
+[I 11:42:33.458 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 11:49:19.716 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 11:51:32.328 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 11:52:34.322 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 11:54:48.064 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 11:57:11.146 NotebookApp] Starting buffering for a312db3b-c59d-41ee-ab0e-bbe001e9fe64:fca1492f7c3944238d72f1cbe922339f
+[I 11:57:47.141 NotebookApp] Uploading file to /DogCat_Capstone_01.Explore Dataset.html
+[I 11:57:47.169 NotebookApp] Uploading file to /Samples2Exclude.xlsx
+[I 11:57:51.290 NotebookApp] Saving file at /机器学习工程师纳米学位毕业项目-猫狗大战-项目报告.pages
+[I 11:59:18.752 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.html
