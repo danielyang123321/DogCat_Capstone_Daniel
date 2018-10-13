@@ -1,76 +1,56 @@
-[I 16:52:22.312 NotebookApp] Using EnvironmentKernelSpecManager...
-[I 16:52:22.313 NotebookApp] Started periodic updates of the kernel list (every 3 minutes).
-[I 16:52:22.319 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
-[I 16:52:22.860 NotebookApp] Loading IPython parallel extension
-[I 16:52:22.904 NotebookApp] JupyterLab beta preview extension loaded from /home/ubuntu/anaconda3/lib/python3.6/site-packages/jupyterlab
-[I 16:52:22.904 NotebookApp] JupyterLab application directory is /home/ubuntu/anaconda3/share/jupyter/lab
-[I 16:52:23.618 NotebookApp] [nb_conda] enabled
-[I 16:52:23.621 NotebookApp] Serving notebooks from local directory: /home/ubuntu/working/DogCat_Capstone
-[I 16:52:23.621 NotebookApp] 0 active kernels
-[I 16:52:23.621 NotebookApp] The Jupyter Notebook is running at:
-[I 16:52:23.621 NotebookApp] http://ip-172-31-60-143:8888/?token=651353ecb9d28adb5c0b25ac4f144895bdc6ee4d43a7b955
-[I 16:52:23.621 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[W 16:52:23.621 NotebookApp] No web browser found: could not locate runnable browser.
-[C 16:52:23.621 NotebookApp] 
+[I 02:54:25.348 NotebookApp] Using EnvironmentKernelSpecManager...
+[I 02:54:25.349 NotebookApp] Started periodic updates of the kernel list (every 3 minutes).
+[I 02:54:25.554 NotebookApp] The port 8888 is already in use, trying another port.
+[I 02:54:25.572 NotebookApp] Loading IPython parallel extension
+[I 02:54:25.600 NotebookApp] JupyterLab beta preview extension loaded from /home/ubuntu/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 02:54:25.600 NotebookApp] JupyterLab application directory is /home/ubuntu/anaconda3/share/jupyter/lab
+[I 02:54:25.782 NotebookApp] [nb_conda] enabled
+[I 02:54:25.785 NotebookApp] Serving notebooks from local directory: /home/ubuntu/working/DogCat_Capstone
+[I 02:54:25.785 NotebookApp] 0 active kernels
+[I 02:54:25.785 NotebookApp] The Jupyter Notebook is running at:
+[I 02:54:25.785 NotebookApp] http://ip-172-31-60-143:8889/?token=142c1698308a337ffafe52ecf6d57136d1b3972ea10be96a
+[I 02:54:25.785 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 02:54:25.785 NotebookApp] No web browser found: could not locate runnable browser.
+[C 02:54:25.785 NotebookApp] 
     
     Copy/paste this URL into your browser when you connect for the first time,
     to login with a token:
-        http://ip-172-31-60-143:8888/?token=651353ecb9d28adb5c0b25ac4f144895bdc6ee4d43a7b955&token=651353ecb9d28adb5c0b25ac4f144895bdc6ee4d43a7b955
-[I 16:52:23.622 NotebookApp] Starting initial scan of virtual environments...
-[I 16:52:27.186 NotebookApp] Found new kernels in environments: conda_chainer_p27, conda_cntk_p36, conda_pytorch_p27, conda_tensorflow_p36, conda_caffe_p27, conda_caffe_p35, conda_mxnet_p36, conda_python3, conda_caffe2_p27, conda_tensorflow_p27, conda_theano_p27, conda_chainer_p36, conda_cntk_p27, conda_theano_p36, conda_python2, conda_mxnet_p27, conda_anaconda3, conda_pytorch_p36
-[I 16:52:47.406 NotebookApp] 302 GET /?token=651353ecb9d28adb5c0b25ac4f144895bdc6ee4d43a7b955&token=651353ecb9d28adb5c0b25ac4f144895bdc6ee4d43a7b955 (47.88.17.133) 0.81ms
-[I 16:53:28.631 NotebookApp] Kernel started: 8f3aac6b-d487-41f4-bccd-7850f8df2ba9
-[I 16:53:29.221 NotebookApp] Adapting to protocol v5.1 for kernel 8f3aac6b-d487-41f4-bccd-7850f8df2ba9
-[I 16:55:29.187 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v0.ipynb
-[I 16:57:29.178 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v0.ipynb
-[I 16:58:00.313 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v0.ipynb
-[I 16:58:45.908 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v0.ipynb
-[I 16:59:28.920 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v0.ipynb
-[I 17:01:18.338 NotebookApp] Starting buffering for 8f3aac6b-d487-41f4-bccd-7850f8df2ba9:2e67ba24dfec40198b17f2e0859238c5
-[I 17:01:29.170 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v0.ipynb
-[I 17:01:30.872 NotebookApp] Adapting to protocol v5.1 for kernel 8f3aac6b-d487-41f4-bccd-7850f8df2ba9
-[I 17:01:30.872 NotebookApp] Restoring connection for 8f3aac6b-d487-41f4-bccd-7850f8df2ba9:2e67ba24dfec40198b17f2e0859238c5
-[I 17:01:49.786 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v0.ipynb
-[W 17:01:59.631 NotebookApp] delete /model.v2.weights.best.hdf5
-[I 17:02:12.272 NotebookApp] Kernel restarted: 8f3aac6b-d487-41f4-bccd-7850f8df2ba9
-[I 17:02:12.277 NotebookApp] Starting buffering for 8f3aac6b-d487-41f4-bccd-7850f8df2ba9:2e67ba24dfec40198b17f2e0859238c5
-[I 17:02:13.284 NotebookApp] Adapting to protocol v5.1 for kernel 8f3aac6b-d487-41f4-bccd-7850f8df2ba9
-[I 17:02:13.284 NotebookApp] Restoring connection for 8f3aac6b-d487-41f4-bccd-7850f8df2ba9:2e67ba24dfec40198b17f2e0859238c5
-[I 17:02:13.284 NotebookApp] Replaying 3 buffered messages
-[I 17:02:20.611 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v0.ipynb
-[I 17:03:10.750 NotebookApp] Kernel interrupted: 8f3aac6b-d487-41f4-bccd-7850f8df2ba9
-[I 17:03:28.691 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v0.ipynb
-[I 17:03:41.664 NotebookApp] Kernel started: 0210846e-ae0f-448d-9298-e83861ec2f85
-[I 17:03:42.243 NotebookApp] Adapting to protocol v5.1 for kernel 0210846e-ae0f-448d-9298-e83861ec2f85
-[I 17:03:53.393 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:04:02.232 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v0.ipynb
-[I 17:04:06.083 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v0.ipynb
-[I 17:04:25.314 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v0.ipynb
-[I 17:04:27.573 NotebookApp] Starting buffering for 8f3aac6b-d487-41f4-bccd-7850f8df2ba9:2e67ba24dfec40198b17f2e0859238c5
-[I 17:04:31.154 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:04:40.640 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:05:06.374 NotebookApp] Kernel shutdown: 8f3aac6b-d487-41f4-bccd-7850f8df2ba9
-[I 17:05:10.866 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:05:41.966 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:09:42.001 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:09:57.778 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:11:42.282 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:13:42.276 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:17:42.535 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:19:42.678 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:19:57.699 NotebookApp] Starting buffering for 0210846e-ae0f-448d-9298-e83861ec2f85:c889f603419b44b39a3f425fd5e9caf8
-[I 17:20:00.214 NotebookApp] Adapting to protocol v5.1 for kernel 0210846e-ae0f-448d-9298-e83861ec2f85
-[I 17:20:00.215 NotebookApp] Restoring connection for 0210846e-ae0f-448d-9298-e83861ec2f85:c889f603419b44b39a3f425fd5e9caf8
-[I 17:23:42.412 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:25:42.349 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:27:42.573 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:29:43.475 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:31:42.514 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:33:18.195 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:35:42.323 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:37:42.356 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:39:42.464 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:40:11.387 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:40:29.741 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:45:57.835 NotebookApp] Saving file at /DogCat_Capstone_03.Model Training_v1.ipynb
-[I 17:45:59.731 NotebookApp] Starting buffering for 0210846e-ae0f-448d-9298-e83861ec2f85:c889f603419b44b39a3f425fd5e9caf8
+        http://ip-172-31-60-143:8889/?token=142c1698308a337ffafe52ecf6d57136d1b3972ea10be96a&token=142c1698308a337ffafe52ecf6d57136d1b3972ea10be96a
+[I 02:54:25.786 NotebookApp] Starting initial scan of virtual environments...
+[I 02:54:28.039 NotebookApp] Found new kernels in environments: conda_caffe_p27, conda_python2, conda_pytorch_p36, conda_mxnet_p27, conda_mxnet_p36, conda_cntk_p27, conda_tensorflow_p27, conda_anaconda3, conda_theano_p27, conda_tensorflow_p36, conda_theano_p36, conda_chainer_p27, conda_caffe_p35, conda_caffe2_p27, conda_cntk_p36, conda_python3, conda_pytorch_p27, conda_chainer_p36
+[I 02:54:55.729 NotebookApp] 302 GET /?token=142c1698308a337ffafe52ecf6d57136d1b3972ea10be96a&token=142c1698308a337ffafe52ecf6d57136d1b3972ea10be96a (47.88.17.133) 0.94ms
+[W 02:55:15.408 NotebookApp] Notebook DogCat_Capstone_01.Explore Dataset.ipynb is not trusted
+[I 02:55:17.271 NotebookApp] Kernel started: 7e860439-69dc-403d-800e-ce0f200169e7
+[I 02:55:17.926 NotebookApp] Adapting to protocol v5.1 for kernel 7e860439-69dc-403d-800e-ce0f200169e7
+[I 02:55:25.618 NotebookApp] Starting buffering for 7e860439-69dc-403d-800e-ce0f200169e7:db43714ca0d548208d368d1ed218c04e
+[I 02:55:32.632 NotebookApp] Kernel started: 4c8a50f3-2122-4bc3-8691-62f2e03e54e5
+[I 02:55:33.272 NotebookApp] Adapting to protocol v5.1 for kernel 4c8a50f3-2122-4bc3-8691-62f2e03e54e5
+[I 02:57:31.537 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[W 02:57:31.539 NotebookApp] Notebook DogCat_Capstone_01.Explore Dataset.ipynb is not trusted
+[I 02:57:43.936 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[W 02:57:43.938 NotebookApp] Notebook DogCat_Capstone_01.Explore Dataset.ipynb is not trusted
+[I 02:57:50.710 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[W 02:57:50.710 NotebookApp] Notebook DogCat_Capstone_01.Explore Dataset.ipynb is not trusted
+[I 03:04:23.742 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 03:09:54.483 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 03:14:07.608 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 03:18:58.484 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 03:20:00.146 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 03:29:51.990 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 03:34:15.545 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 03:36:57.149 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 03:37:08.882 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 03:41:36.174 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 03:42:15.321 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 03:47:21.091 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 03:48:06.089 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 03:48:20.154 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 03:49:41.249 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 04:01:06.179 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 04:03:27.665 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 04:04:41.098 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 04:05:26.096 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 04:05:57.267 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 04:07:17.547 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 04:12:58.122 NotebookApp] Saving file at /DogCat_Capstone_01.Explore Dataset.ipynb
+[I 04:13:36.121 NotebookApp] Starting buffering for 4c8a50f3-2122-4bc3-8691-62f2e03e54e5:cf867dc8d605461ba504ec997feee214
